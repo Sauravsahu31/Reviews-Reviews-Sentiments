@@ -25,7 +25,7 @@ This project analyzes 18,182 recipe reviews to predict user ratings, uncover eng
   <a href="https://archive.ics.uci.edu/dataset/911/recipe+reviews+and+user+feedback+dataset" target="_blank">Link</a>
   
 - **Tutorial**: 
-  <a href="http://127.0.0.1:5500/uploads/Videos/sentiment.mp4" target="_blank">Link</a>
+  <a href="https://drive.google.com/file/d/1dJRigZTLXeFR1EqMPUYEjwiMc76YMGZo/view?usp=sharing">Link</a>
   
 ## Recommendations
 - Discontinue low-rated recipes.
