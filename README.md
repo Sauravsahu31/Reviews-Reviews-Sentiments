@@ -15,9 +15,18 @@ This project analyzes 18,182 recipe reviews to predict user ratings, uncover eng
 
 ## Tools Used
 - Python Libraries: Pandas, Scikit-learn, NLTK, Streamlit.
-- Repository: [GitHub Link](#)
-- Dashboard: [Streamlit App Link](#)
 
+## Resources
+
+- **Dashboard**: 
+  <a href="https://reviews-reviews-sentiments-9fpjf5ucdbqqkdmayfnxvi.streamlit.app/" target="_blank">Link</a>
+   
+- **Data Source**: 
+  <a href="https://archive.ics.uci.edu/dataset/911/recipe+reviews+and+user+feedback+dataset" target="_blank">Link</a>
+  
+- **Tutorial**: 
+  <a href="http://127.0.0.1:5500/uploads/Videos/sentiment.mp4" target="_blank">Link</a>
+  
 ## Recommendations
 - Discontinue low-rated recipes.
 - Promote top recipes and refine others based on themes.
